@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rlb2y0y0iw4nu9sSlbYCjjoSKMTfzk48uMV8tcahk118Rmmnea0V4x0bC1PQtvIC4hPWB2dNDjSyWiMWrwZpng==",
+  "success": true,
+  "projectFilePath": "/Users/alexander.usov/RiderProjects/EtcdClusterIssue/Service/Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexander.usov/.nuget/packages/dotnet-etcd/6.0.1/dotnet-etcd.6.0.1.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/google.protobuf/3.21.9/google.protobuf.3.21.9.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/grpc.core.api/2.49.0/grpc.core.api.2.49.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/grpc.net.client/2.49.0/grpc.net.client.2.49.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/grpc.net.common/2.49.0/grpc.net.common.2.49.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/alexander.usov/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
