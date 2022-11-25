@@ -1,0 +1,6 @@
+.idea
+.vscode
+bin/
+vendor.pb/
+.env.local
+k8s/values_local.yaml
